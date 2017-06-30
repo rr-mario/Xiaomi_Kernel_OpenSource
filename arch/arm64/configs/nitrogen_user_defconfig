@@ -743,6 +743,11 @@ CONFIG_IPV6_VTI=y
 CONFIG_NET_IPVTI=y
 
 #
+# ResurrectedKernel Extra
+#
+CONFIG_IOSCHED_MAPLE=y
+
+#
 # Qualcomm Atheros CLD WLAN module
 #
 CONFIG_QCA_CLD_WLAN=m
