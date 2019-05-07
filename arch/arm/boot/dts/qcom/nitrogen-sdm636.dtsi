@@ -70,3 +70,6 @@
         };
     };
 };
+&ssc_sensors {
+	qcom,firmware-name = "adsp_e4";
+};
